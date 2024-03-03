@@ -19,6 +19,7 @@
 		C580F7F32B9409BF00253EEA /* Color-Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = C580F7F22B9409BF00253EEA /* Color-Theme.swift */; };
 		C580F7F52B9413AB00253EEA /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C580F7F42B9413AB00253EEA /* MissionView.swift */; };
 		C580F7F72B94F80000253EEA /* AstronautView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C580F7F62B94F80000253EEA /* AstronautView.swift */; };
+		C580F7F92B9501EF00253EEA /* GridLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = C580F7F82B9501EF00253EEA /* GridLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		C580F7F22B9409BF00253EEA /* Color-Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color-Theme.swift"; sourceTree = "<group>"; };
 		C580F7F42B9413AB00253EEA /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
 		C580F7F62B94F80000253EEA /* AstronautView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronautView.swift; sourceTree = "<group>"; };
+		C580F7F82B9501EF00253EEA /* GridLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridLayout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 			children = (
 				C580F7DA2B92CCE000253EEA /* MoonshotApp.swift */,
 				C580F7DC2B92CCE000253EEA /* ContentView.swift */,
+				C580F7F82B9501EF00253EEA /* GridLayout.swift */,
 				C580F7EC2B93E93700253EEA /* Astronaut.swift */,
 				C580F7F02B93F28600253EEA /* Mission.swift */,
 				C580F7F42B9413AB00253EEA /* MissionView.swift */,
@@ -169,6 +172,7 @@
 				C580F7F32B9409BF00253EEA /* Color-Theme.swift in Sources */,
 				C580F7DD2B92CCE000253EEA /* ContentView.swift in Sources */,
 				C580F7DB2B92CCE000253EEA /* MoonshotApp.swift in Sources */,
+				C580F7F92B9501EF00253EEA /* GridLayout.swift in Sources */,
 				C580F7F12B93F28600253EEA /* Mission.swift in Sources */,
 				C580F7EF2B93E9FF00253EEA /* Bundle-Decodable.swift in Sources */,
 			);
